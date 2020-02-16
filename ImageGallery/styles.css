@@ -1,0 +1,20 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p{
+	font-family: Krona One;
+	font-size: 35px;
+	font-weight: 400;
+	margin-left: 1.66%;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	padding-bottom: 20px;
+	width: 30%;
+}
+
+body{
+	background: f3f3f3;
+}
