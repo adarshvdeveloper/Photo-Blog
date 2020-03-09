@@ -1,2 +1,2 @@
 # Photo-Blog
-Basic responsive photo blog using html and css
+Basic responsive photo blog using html, css and bootstrap 
